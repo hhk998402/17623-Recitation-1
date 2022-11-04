@@ -1,18 +1,13 @@
 package com.areyes1.jgc.mockito.e;
 
-import org.hamcrest.Matchers;
 import org.junit.Test;
-import org.mockito.Mockito;
-
-import java.util.Iterator;
 
 import static org.junit.Assert.assertEquals;
-import static org.mockito.Mockito.*;
 
 /**
  * The Class JUnitServiceTestExample.
  */
-public class JUnitServiceTestExample {
+public class TestServiceTest {
 
 	@Test
 	public void testSimpleInt() {
